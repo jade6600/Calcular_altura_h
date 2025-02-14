@@ -13,5 +13,5 @@ q=h/5
 ### output
 n
 # Diseño
-![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+![Diagrama de flujo](driagrama.png "Diagrama de flujo")
 # Construccion
